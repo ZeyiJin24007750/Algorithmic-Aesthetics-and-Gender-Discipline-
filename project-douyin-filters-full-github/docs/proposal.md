@@ -27,7 +27,7 @@ Chinese Digital Culture & Beauty Norms
 ## English
 Title: Algorithmic Aesthetics and Gender Discipline: How Default Designs in Chinese Social Media Filters Shape Women's Self-Presentation
 
-（Research Objectives）
+Research Objectives：
 1. Identify how default beauty filters on Douyin and Xiaohongshu are designed (naming, parameters, UI).
 2. Analyze how these defaults algorithmically encode and normalize the aesthetic ideal of “white, slim, young” (白瘦幼).
 3. Interpret the cultural and gendered implications of these defaults within the Chinese digital context.
